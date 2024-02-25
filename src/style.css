@@ -42,8 +42,6 @@ main img{
 .box-text h2{
     font-weight: 700;
     color: var(--Dark-blue);
-    padding: 10px;
-
 }
 
 .box-text p{
